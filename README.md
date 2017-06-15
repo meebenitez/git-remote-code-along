@@ -1,2 +1,1 @@
-test test TEST
-TEST MORE
+just test
